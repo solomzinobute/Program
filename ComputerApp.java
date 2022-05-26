@@ -7,7 +7,7 @@ import javax.swing.UIManager;
 
 /**
 *
-* @author 
+* @author Solomzi Nobute 221283781
 */
 
 public class ComputerApp extends JFrame{
